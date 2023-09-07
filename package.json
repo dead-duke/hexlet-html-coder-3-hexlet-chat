@@ -1,0 +1,32 @@
+{
+  "name": "hexlet-messanger",
+  "version": "1.0.0",
+  "description": "Third HTML/CSS Hexlet project",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deus-ex-m/hexlet-html-coder-3rd-project"
+  },
+  "author": "Artem Terenin",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "glob-exec": "^0.1.1",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-svg-sprite": "^2.0.3",
+    "pug": "^3.0.2",
+    "pug-lint": "^2.7.0",
+    "pug-lint-config-clock": "^2.0.0",
+    "sass": "^1.64.2",
+    "stylelint": "^15.10.2",
+    "stylelint-config-standard": "^34.0.0",
+    "stylelint-config-standard-scss": "^10.0.0",
+    "surge": "^0.23.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
